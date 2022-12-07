@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hello World! I am Graziâni Candiotto 👋
 
-<!--
-**gcandiotto/gcandiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/gcandiotto/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcandiotto&count_private=true&show_icons=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcandiotto&layout=compact&count_private=true&show_icons=true&theme=dracula" />
+</div>
+
 
 Here are some ideas to get you started:
 
