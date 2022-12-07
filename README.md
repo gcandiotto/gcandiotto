@@ -9,9 +9,11 @@
 <div>
   <img align="center" height="30em" width="40" src="https://github.com/fortran-lang/assets/blob/main/fortran-logo.svg"/>
   <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 </div>
 
+  
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
