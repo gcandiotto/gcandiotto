@@ -1,11 +1,8 @@
-## Hello World! I am Graziâni Candiotto 👋
+## <img align="center" height="35em" width="70" src="https://user-images.githubusercontent.com/25857203/201220478-eee75852-fbcd-4140-bac2-4acbe80a5fe7.png"/> Hello World! I am Graziâni Candiotto 👋
 
-- :man_scientist:<img align="center" height="25em" width="50" src="https://user-images.githubusercontent.com/25857203/201220478-eee75852-fbcd-4140-bac2-4acbe80a5fe7.png"/> I am a theoretical physicist of condensed matter and statistical mechanics and a lover of the quantum nature and nano world
+- :man_scientist: I am a theoretical physicist of condensed matter and statistical mechanics and a lover of the quantum nature and nano world
 - 🔭 I am currently working on software development to describe the electronic behavior of materials.
 - :male_detective: I am interested in studying the quantum behavior of low dimensional materials.
-
-<img align="center" height="30em" width="40" src="https://user-images.githubusercontent.com/25857203/201220478-eee75852-fbcd-4140-bac2-4acbe80a5fe7.png"/>
-
 
 <div>
   <a href="https://github.com/gcandiotto/">
