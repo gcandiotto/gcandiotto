@@ -2,7 +2,7 @@
 
 - :man_scientist::man_technologist: I am a theoretical physicist of condensed matter and statistical mechanics and a lover of the quantum nature and nano world
 - 🔭 I am currently working on software development to describe the electronic behavior of materials.
-
+- :male_detective: I am interested in studying the quantum behavior of low dimensional materials.
 <div>
   <a href="https://github.com/gcandiotto/">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gcandiotto&count_private=true&show_icons=true&theme=dracula" />
